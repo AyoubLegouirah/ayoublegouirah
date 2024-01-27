@@ -43,18 +43,13 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubLegouirah&show_icons=true&locale=en&layout=compact" alt="AyoubLegouirah" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubLegouirah&show_icons=true&locale=en&layout=compact&theme=dark" alt="AyoubLegouirah" />
 </p>
-
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyoubLegouirah&show_icons=true&locale=en" alt="AyoubLegouirah" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubLegouirah&theme=dark" alt="AyoubLegouirah" />
 </p>
 
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubLegouirah&" alt="AyoubLegouirah" />
-</p>
 
-
-<img alt="github-snake" src="./image/github-user-contribution.svg"  />
+<img alt="github-snake" src="./image/github-user-contributionBlack.svg"  />
