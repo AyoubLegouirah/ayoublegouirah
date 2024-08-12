@@ -48,4 +48,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubLegouirah&theme=dark" alt="AyoubLegouirah" />
 </p>
 
-<img alt="github-snake" src="./image/github-user-contributionBlack.svg"  />
